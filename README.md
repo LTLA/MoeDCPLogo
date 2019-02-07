@@ -39,7 +39,11 @@ We are also looking for _moe_, which restricts the most likely genres to comedy 
 For any serious anime watcher, the constraints above should immediately suggest one show in particular.
 Yes, that's right - [**Gochuumon wa Usagi Desu ka?**](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka) (GochiUsa), or "Is the Order a Rabbit?".
 
-![Gochiusa](https://myanimelist.cdn-dena.com/images/anime/6/79600.jpg)
+![GochiUsa I](https://myanimelist.cdn-dena.com/images/anime/6/79600.jpg)
+
+![GochiUsa II](https://vignette.wikia.nocookie.net/gochiusa/images/7/78/Image.jpg/revision/latest?cb=20140413152322)
+
+![GochiUsa III](https://lh3.googleusercontent.com/-vUioltN8nrI/VlD1bB3jcSI/AAAAAAAAt6o/sug8JaiMBW4/s640-Ic42/vlcsnap-00016.png)
 
 I shouldn't need to say more, but I will.
 For the uninitiated, GochiUsa is a show about the day-to-day lives of several friends working in cafes in a small European-ish town.
