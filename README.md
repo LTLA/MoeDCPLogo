@@ -23,18 +23,18 @@ For the DCP itself, there is the snooze-inducing diagram here:
 I also have a T-shirt where the parts of the HCA logo are colored using the box colors in the DCP schematic.
 It's a nice shirt, but, all in all, I think we can agree that it's not very inspiring.
 
-If I had one major criticism about these images, it's that they're not moe enough.
+If I had one major criticism about these images, it's that they're not _moe_ enough.
 By contrast, even Kyoto City can make public transport cute:
 
 ![Kyoto transport](http://img1.ak.crunchyroll.com/i/spire4/d78c42ea88a721966f4018073a749b551411537258_full.jpg)
 
-Our task here is to improve the DCP logo by making it more anime.
+Our task here is to improve the DCP logo by making it more _anime_.
 
 ## Solution
 
 We want to search the "literature" for an anthropomorphized representation of each DCP box.
 This requires a show with a main cast of five who have color-coded themes according to the DCP box colors above.
-We are also looking for moe, which restricts the most likely genres to comedy or slice of life.
+We are also looking for _moe_, which restricts the most likely genres to comedy or slice of life.
 
 For any serious anime watcher, the constraints above should immediately suggest one show in particular.
 Yes, that's right - [**Gochuumon wa Usagi Desu ka?**](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka) (GochiUsa), or "Is the Order a Rabbit?".
@@ -46,6 +46,10 @@ For the uninitiated, GochiUsa is a show about the day-to-day lives of several fr
 It is a relaxing show - if very saccharine - and nothing bad ever happens, which makes it perfect for representing the DCP.
 
 ## Honorable mentions
+
+[**Hanayamata**](https://myanimelist.net/anime/21681/Hanayamata) would be a good choice but for a better color distribution among its main characters.
+
+![Hanayamata](https://myanimelist.cdn-dena.com/images/anime/1963/90831l.jpg) 
 
 [**Joshiraku**](https://myanimelist.net/anime/12679/Joshiraku) also has a main cast of five, but the colors don't quite fit.
 
