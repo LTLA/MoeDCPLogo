@@ -14,11 +14,11 @@ The DCP implements a computational architecture for data processing, all the way
 
 The current logo for the HCA is this rather boring image:
 
-![HCA logo](https://avatars0.githubusercontent.com/u/26391798?s=200&v=4)
+[![HCA logo](pics/hca_logo.png)](https://www.humancellatlas.org/)
 
 For the DCP itself, there is the snooze-inducing diagram here:
 
-![DCP platform](https://chanzuckerberg.com/wp-content/uploads/2018/12/czi_web_science_humancells_data_coordination_platform.png)
+[![DCP platform](pics/dcp_logo.png)](https://chanzuckerberg.com/science/programs-resources/humancellatlas/)
 
 I also have a T-shirt where the parts of the HCA logo are colored using the box colors in the DCP schematic.
 
@@ -29,23 +29,23 @@ It's a nice shirt, but, all in all, I think we can agree that it's not very insp
 If I had one major criticism about these images, it's that they're not _moe_ enough.
 By contrast, Kyoto City can make even public transport cute:
 
-![Kyoto transport](http://img1.ak.crunchyroll.com/i/spire4/d78c42ea88a721966f4018073a749b551411537258_full.jpg)
+![Kyoto transport](pics/kyoto.jpg)
 
-Our task here is to improve the DCP logo by making it more _anime_.
-We want to search the "literature" for an anthropomorphized representation of each DCP box.
+Our task here is to improve the DCP logo by making it more _moe_.
+We want to search the ["literature"](https://myanimelist.net) for an anthropomorphized representation of each DCP box.
 This requires a show with a main cast of five who have color-coded themes according to the DCP box colors above.
-We are also looking for _moe_, which restricts the most likely genres to comedy or slice of life.
+Obviously, we are looking for _moe_, which restricts the most likely genres to comedy or slice of life.
 
 ## Solution
 
 For any serious anime watcher, the constraints above should immediately suggest one show in particular.
 Yes, that's right - [**Gochuumon wa Usagi Desu ka?**](https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka) (GochiUsa), or "Is the Order a Rabbit?".
 
-![GochiUsa I](https://myanimelist.cdn-dena.com/images/anime/6/79600.jpg)
+![GochiUsa I](pics/gochiusa_1.jpg)
 
-![GochiUsa II](https://vignette.wikia.nocookie.net/gochiusa/images/7/78/Image.jpg/revision/latest?cb=20140413152322)
+![GochiUsa II](pics/gochiusa_2.png)
 
-![GochiUsa III](https://lh3.googleusercontent.com/-vUioltN8nrI/VlD1bB3jcSI/AAAAAAAAt6o/sug8JaiMBW4/s640-Ic42/vlcsnap-00016.png)
+![GochiUsa III](pics/gochiusa_3.png)
 
 I shouldn't need to say more, but I will.
 For the uninitiated, GochiUsa is a show about the day-to-day lives of several friends working in cafes in a small European-ish town.
@@ -55,11 +55,11 @@ It is a relaxing show - if very saccharine - and nothing bad ever happens, which
 
 [**Hanayamata**](https://myanimelist.net/anime/21681/Hanayamata) would be a good choice but for a better color distribution among its main characters.
 
-![Hanayamata](https://myanimelist.cdn-dena.com/images/anime/1963/90831l.jpg) 
+![Hanayamata](pics/hanayamata.jpg)
 
 [**Joshiraku**](https://myanimelist.net/anime/12679/Joshiraku) also has a main cast of five, but the colors don't quite fit.
 
-![Joshiraku](https://myanimelist.cdn-dena.com/images/anime/8/48925.jpg)
+![Joshiraku](pics/joshiraku.jpg)
 
 ## Contribute!
 
