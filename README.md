@@ -43,13 +43,14 @@ Yes, that's right - [**Gochuumon wa Usagi Desu ka?**](https://myanimelist.net/an
 
 ![GochiUsa I](pics/gochiusa_1.jpg)
 
-![GochiUsa II](pics/gochiusa_2.png)
+![GochiUsa II](pics/gochiusa_2.jpg)
 
 ![GochiUsa III](pics/gochiusa_3.png)
 
 I shouldn't need to say more, but I will.
 For the uninitiated, GochiUsa is a show about the day-to-day lives of several friends working in cafes in a small European-ish town.
 It is a relaxing show - if very saccharine - and nothing bad ever happens, which makes it perfect for representing the DCP.
+And if one season wasn't enough, there's [another](https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_Desu_ka)!
 
 ## Honorable mentions
 
