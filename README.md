@@ -27,7 +27,7 @@ I also have a T-shirt where the parts of the HCA logo are colored using the box 
 It's a nice shirt, but, all in all, I think we can agree that it's not very inspiring.
 
 If I had one major criticism about these images, it's that they're not _moe_ enough.
-By contrast, Kyoto City can make even public transport cute:
+By contrast, Kyoto City can make even public transport _kawaii_:
 
 ![Kyoto transport](pics/kyoto.jpg)
 
@@ -70,3 +70,6 @@ Please raise an issue if you find a show that fits our color-coding requirements
 
 - No [**Madoka**](https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica).
 Not only do the colours not fit, the tone of the show is not in line with my mental image of the DCP.
+- No [**Yuuki Yuuna**](https://myanimelist.net/anime/25519/Yuuki_Yuuna_wa_Yuusha_de_Aru), for similar reasons.
+- No... whatever on earth [this](https://www.crunchyroll.com/en-gb/anime-news/2013/12/21-1/mahou-chunenojamajo-5-drama-cd-shows-off-middle-aged-male-magical-girls) is. 
+You'll need some brain bleach for that one.
